@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cakez1p&layout=compact)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cakez1p&bg_color=242930&range=all_time&layout=compact&text_color=e6edf3&border_color=0000&hide=markdown,text)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cakez1p&bg_color=242930&layout=compact&text_color=e6edf3&border_color=0000&hide=markdown,text)
